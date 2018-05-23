@@ -24,3 +24,9 @@ This reminds me of the generalized evolutionary theory being developed by Kaufma
 tensions and unresolved conflicts between goods we don’t know yet how to
 combine. But that is not the same as saying that the modern moral order is not an
 ethical gain.
+
+From his Berkeley Lecture at Georgetown:
+
+Master narratives are inevitable, the only way to deal with a bad master narrative is to get a better one (From Fandango:  the only way to get over a girl is to get yourself another one)
+
+Taylor pauses over the term "construction", and I agree.  It seems like "construction" has an organismic bias (although insects construct as well).  Emergence seems like a better term, as long as we are explicit about our bias towards evolutionary master narratives.
